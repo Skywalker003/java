@@ -31,7 +31,7 @@ public class sum_of_matrix {
     }
     static void matrixRead(int[][] mat){
         for (int i = 0 ; i < mat.length ; i++){
-            for (int j = 0 ; j < mat.length ; j++){
+            for (int j = 0 ; j < mat[i].length ; j++){
                 mat[i][j] = sc.nextInt();
             }
         }
