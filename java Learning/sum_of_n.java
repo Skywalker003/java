@@ -27,7 +27,7 @@ public class sum_of_n {
 // recursive
 public class sum_of_n {
     public static void main(String[] args){
-        int num = 10;
+        int num = 6;
         int sum = getSum(num);
 
         System.out.println("sum of n natural number is " + sum);
