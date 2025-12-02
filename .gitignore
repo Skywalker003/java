@@ -1,0 +1,59 @@
+# -------------------------
+# Java Ignore Rules
+# -------------------------
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Java backups
+*.orig
+
+# -------------------------
+# VS Code Ignore Rules
+# -------------------------
+
+# VS Code settings folder
+.vscode/
+
+# Temporary/Cache files created by extensions
+.history/
+.settings/
+
+# Java project management
+.classpath
+.project
+.gradle/
+.idea/
+
+# -------------------------
+# Build Output Folders
+# -------------------------
+
+bin/
+out/
+build/
+target/
+
+# Maven
+.mvn/
+
+# Gradle
+.gradle/
+
+# IntelliJ
+.idea/
+*.iml
