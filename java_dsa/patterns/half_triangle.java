@@ -1,4 +1,3 @@
-package java_dsa.patterns;
 public class half_triangle {
     public static void main(String[] args){
         for (int i = 0 ; i<4 ; i++){
